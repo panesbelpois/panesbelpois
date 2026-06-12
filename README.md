@@ -10,8 +10,6 @@
       <img src="https://github.com/user-attachments/assets/c67aa197-ed8d-4ba3-a107-17ecb523c8f2" width="280">
     </td>
     <td>
-      
-_"a life-long learner"_
 
 **Hi there, my name is Anisah Octa Rohila, or you can call me Nisa.** I am an Informatics Engineering student at Institut Teknologi Sumatera (ITERA) who is always eager to learn new technologies. I have spent some time exploring mobile and web app development, but lately, I've been really fascinated by the world of Artificial Intelligence and Data Science.
 
